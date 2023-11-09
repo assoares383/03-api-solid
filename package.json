@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/assoares383/03-api-solid#readme",
   "devDependencies": {
+    "@rocketseat/eslint-config": "2.1.0",
     "@types/node": "20.9.0",
+    "eslint": "8.53.0",
     "tsup": "7.2.0",
     "tsx": "4.0.0",
     "typescript": "5.2.2"
