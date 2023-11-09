@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/assoares383/03-api-solid#readme",
   "devDependencies": {
-    "@types/node": "^20.9.0",
-    "tsup": "^7.2.0",
-    "tsx": "^4.0.0",
-    "typescript": "^5.2.2"
+    "@types/node": "20.9.0",
+    "tsup": "7.2.0",
+    "tsx": "4.0.0",
+    "typescript": "5.2.2"
   },
   "dependencies": {
-    "fastify": "^4.24.3"
+    "fastify": "4.24.3"
   }
 }

@@ -86,7 +86,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     "fastq" "^1.6.0"
 
-"@types/node@^20.9.0":
+"@types/node@20.9.0":
   "integrity" "sha512-nekiGu2NDb1BcVofVcEKMIwzlx4NjHlcjhoxxKBNLtz15Y1z7MYf549DFvkHSId02Ax6kGwWntIBPC3l/JZcmw=="
   "resolved" "https://registry.npmjs.org/@types/node/-/node-20.9.0.tgz"
   "version" "20.9.0"
@@ -376,7 +376,7 @@
   "resolved" "https://registry.npmjs.org/fast-uri/-/fast-uri-2.3.0.tgz"
   "version" "2.3.0"
 
-"fastify@^4.24.3":
+"fastify@4.24.3":
   "integrity" "sha512-6HHJ+R2x2LS3y1PqxnwEIjOTZxFl+8h4kSC/TuDPXtA+v2JnV9yEtOsNSKK1RMD7sIR2y1ZsA4BEFaid/cK5pg=="
   "resolved" "https://registry.npmjs.org/fastify/-/fastify-4.24.3.tgz"
   "version" "4.24.3"
@@ -1005,7 +1005,7 @@
   "resolved" "https://registry.npmjs.org/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz"
   "version" "0.1.13"
 
-"tsup@^7.2.0":
+"tsup@7.2.0":
   "integrity" "sha512-vDHlczXbgUvY3rWvqFEbSqmC1L7woozbzngMqTtL2PGBODTtWlRwGDDawhvWzr5c1QjKe4OAKqJGfE1xeXUvtQ=="
   "resolved" "https://registry.npmjs.org/tsup/-/tsup-7.2.0.tgz"
   "version" "7.2.0"
@@ -1025,7 +1025,7 @@
     "sucrase" "^3.20.3"
     "tree-kill" "^1.2.2"
 
-"tsx@^4.0.0":
+"tsx@4.0.0":
   "integrity" "sha512-jd3C5kw9tR68gtvqHUYo/2IwxaA46/CyKvcVQ4DsKRAPb19/vWgl7zF9mYNjFRY6KcGKiwne41RU91ll31IggQ=="
   "resolved" "https://registry.npmjs.org/tsx/-/tsx-4.0.0.tgz"
   "version" "4.0.0"
@@ -1036,7 +1036,7 @@
   optionalDependencies:
     "fsevents" "~2.3.3"
 
-"typescript@^5.2.2", "typescript@>=4.1.0":
+"typescript@>=4.1.0", "typescript@5.2.2":
   "integrity" "sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w=="
   "resolved" "https://registry.npmjs.org/typescript/-/typescript-5.2.2.tgz"
   "version" "5.2.2"
