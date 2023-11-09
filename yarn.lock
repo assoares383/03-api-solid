@@ -267,6 +267,11 @@
   dependencies:
     "path-type" "^4.0.0"
 
+"dotenv@16.3.1":
+  "integrity" "sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ=="
+  "resolved" "https://registry.npmjs.org/dotenv/-/dotenv-16.3.1.tgz"
+  "version" "16.3.1"
+
 "esbuild@^0.18.2", "esbuild@>=0.17", "esbuild@~0.18.20":
   "integrity" "sha512-ceqxoedUrcayh7Y7ZX6NdbbDzGROiyVBgC4PriJThBKSVPWnnFHZAkfI1lJT8QFkOwH4qOS2SJkS4wvpGl8BpA=="
   "resolved" "https://registry.npmjs.org/esbuild/-/esbuild-0.18.20.tgz"
@@ -1088,3 +1093,8 @@
   "integrity" "sha512-8aAvwVUSHpfEqTQ4w/KMlf3HcRdt50E5ODIQJBw1fQ5RL34xabzxtUlzTXVqc4rkZsPbvrXKWnABCD7kWSmocA=="
   "resolved" "https://registry.npmjs.org/yaml/-/yaml-2.3.4.tgz"
   "version" "2.3.4"
+
+"zod@3.22.4":
+  "integrity" "sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg=="
+  "resolved" "https://registry.npmjs.org/zod/-/zod-3.22.4.tgz"
+  "version" "3.22.4"
